@@ -5,7 +5,7 @@ declare(strict_types=1);
 return [
     'relationId' => 30005,
 
-    'languages' => ['en'],
+    'languages' => ['de', 'en'],
 
     'exclude' => [
         'relation' => [],
