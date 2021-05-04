@@ -1,10 +1,9 @@
 name,source,gender,wikidata,type
+Sankt-Georg-Straße,wikidata,,Q48438,way
 "Acheringer Hauptstraße",,,,way
 "Acheringer Straße",,,,way
 Adlerstraße,,,,way
-Adolph-Kolping-Straße,,,,way
 Ahornweg,,,,way
-Alexander-von-Humboldt-Weg,,,,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
 "Alte Akademie",,,,way
@@ -55,7 +54,6 @@ Amtsgerichtsgasse,,,,way
 "An der Stoibermühle",,,,way
 Angerbadergasse,,,,way
 Angerbrunnenstraße,,,,way
-Angermaierstraße,,,,way
 Angerstraße,,,,way
 Angerweg,,,,way
 Annenhofstraße,,,,way
@@ -74,7 +72,6 @@ Bergstraße,,,,way
 Besucherpark,,,,way
 "Besucherpark Aussichtspunkt",,,,way
 Birkenstraße,,,,way
-Bismarckstraße,,,,way
 Blumenstraße,,,,way
 Böhmerwaldstraße,,,,way
 Bourdonstraße,,,,way
@@ -83,20 +80,15 @@ Brücklangerstraße,,,,way
 Brunnwiesenstraße,,,,way
 Buchenweg,,,,way
 "Burgrainer Straße",,,,way
-Clemensänger-Ring,,,,way
 Damm,,,,way
 Dammweg,,,,way
-Deutingerstraße,,,,way
 Dorfstraße,,,,way
-Dr.-von-Daller-Straße,,,,way
 Drosselweg,,,,way
 Dukatenweg,,,,way
 Dürnast,,,,way
 "Dürnaster Weg",,,,way
 "Dürnecker Straße",,,,way
-Düwellstraße,,,,way
 Eberhardsweg,,,,way
-Egilbertstraße,,,,way
 Eichenweg,,,,way
 Eisvogelweg,,,,way
 "Erdinger Straße",,,,way
@@ -130,11 +122,8 @@ Furtnergasse,,,,way
 Garten,,,,way
 "Gartener Straße",,,,way
 Gartenstraße,,,,way
-General-von-Nagel-Straße,,,,way
 "Giggenhauser Straße",,,,way
-Graf-Moy-Straße,,,,way
 Grasmückenweg,,,,way
-Gregor-Mendel-Straße,,,,way
 "Gremertshauser Straße",,,,way
 Griesbergweg,,,,way
 Griesfeldstraße,,,,way
@@ -146,17 +135,14 @@ Grottenau,,,,way
 "Hallberg Straße",,,,way
 "Hallbergmooser Straße",,,,way
 "Haxthauser Weg",,,,way
-Haydstraße,,,,way
 Heiliggeistgasse,,,,way
 Herderstraße,,,,way
 Hirtenweg,,,,way
-Hittostraße,,,,way
 Hochackerstraße,,,,way
 Hochackerweg,,,,way
 Hohenbachernstraße,,,,way
 Hollerweg,,,,way
 Holzgartenstraße,,,,way
-Ignaz-Günther-Straße,,,,way
 "Innichner Straße",,,,way
 "Isarsteg Süd",,,,way
 Isarstraße,,,,way
@@ -167,11 +153,9 @@ Jagdstraße,,,,way
 Jägersteig,,,,way
 Jägerwirtsgasse,,,,way
 Johann-Baumgartner-Straße,,,,way
-Johannisstraße,,,,way
 Kammergasse,,,,way
 Kammerhof,,,,way
 Karwendelring,,,,way
-Kepserstraße,,,,way
 Kesselschmiedstraße,,,,way
 Kiebitzweg,,,,way
 Kirchenpoint,,,,way
@@ -194,7 +178,6 @@ Laubenweg,,,,way
 Laubsängerweg,,,,way
 Lerchenfeldstraße,,,,way
 Lerchenstraße,,,,way
-Liebigstraße,,,,way
 Lindenhof,,,,relation
 Lindenstraße,,,,way
 Lohweg,,,,way
@@ -207,9 +190,6 @@ Maria-Wörther-Straße,,,,way
 "Marzlinger Fußweg",,,,way
 "Marzlinger Straße",,,,way
 Mauthstraße,,,,way
-Max-Eyth-Straße,,,,way
-Max-Lehner-Straße,,,,way
-Max-Reger-Straße,,,,way
 Meisenstraße,,,,way
 Michaelsweg,,,,way
 Milanweg,,,,way
@@ -248,11 +228,9 @@ Pirolweg,,,,way
 Plantage,,,,way
 Plantagenweg,,,,way
 Prechtlstraße,,,,way
-Prinz-Ludwig-Straße,,,,way
 "Pullinger Hauptstraße",,,,way
 Rabenweg,,,,way
 "Radweg FS - Wippenhausen",,,,way
-Raiffeisenstraße,,,,way
 Reihenweg,,,,way
 Rennweg,,,,way
 "Riegerauer Weg",,,,way
@@ -262,7 +240,6 @@ Rosenstraße,,,,way
 Rosenweg,,,,way
 Rotkreuzstraße,,,,way
 Saarstraße,,,,way
-Sankt-Georg-Straße,,,,way
 Schießstättstraße,,,,way
 Schlesierstraße,,,,way
 Schloßstraße,,,,way
@@ -285,7 +262,6 @@ Spechtweg,,,,way
 Sperberweg,,,,way
 "St. Georgs-Hof",,,,way
 St.-Erhard-Straße,,,,way
-St.-Ulrich-Straße,,,,way
 Starenweg,,,,way
 Steinbreite,,,,way
 Stieglbräugasse,,,,way
@@ -298,7 +274,6 @@ Talweg,,,,way
 Tannenweg,,,,way
 "Thalhauser Fußweg",,,,way
 "Thalhauser Straße",,,,way
-Theodor-Scherg-Straße,,,,way
 "Thomas Scharnagel-Weg",,,,way
 Trial,,,,way
 Trimm-Dich-Pfad,,,,way
@@ -314,7 +289,6 @@ Ulmenweg,,,,way
 "Unterer Graben",,,,way
 "Unterer Schlangenweg",,,,way
 "Untergartelshauser Weg",,,,way
-Veitsmüllerweg,,,,way
 Villanystraße,,,,way
 Vimystraße,,,,way
 "Vöttinger Straße",,,,way
@@ -331,7 +305,6 @@ Wartungsallee,,,,way
 "Weihenstephaner Steig",,,,way
 "Weihenstephaner Straße",,,,way
 Weiherstraße,,,,way
-Weizengasse,,,,way
 Wendelsteinstraße,,,,way
 "Werdenfelser Straße",,,,way
 "Westtangente Freising",,,,way
