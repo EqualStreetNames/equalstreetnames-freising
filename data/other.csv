@@ -1,12 +1,17 @@
 name,source,gender,wikidata,type
+"Alte Akademie",wikidata,,Q882703,way
+"Obere Domberggasse",wikidata,,Q1236902,way
+Plantagenweg,wikidata,,Q107481691,way
 Sankt-Georg-Straße,wikidata,,Q48438,way
+"Vöttinger Straße",wikidata,,Q1582117,way
+"Weihenstephaner Berg",wikidata,,Q107475256,way
+"Weihenstephaner Steig",wikidata,,Q107475256,way
 "Acheringer Hauptstraße",,,,way
 "Acheringer Straße",,,,way
 Adlerstraße,,,,way
 Ahornweg,,,,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
-"Alte Akademie",,,,way
 "Alte Poststraße",,,,way
 "Altenhauser Fußweg",,,,way
 "Altenhauser Straße",,,,way
@@ -206,7 +211,6 @@ Neulandstraße,,,,way
 Nordallee,,,,way
 "Notzufahrt Westtangente Freising",,,,way
 Nussbaumweg,,,,way
-"Obere Domberggasse",,,,way
 "Obere Hauptstraße",,,,way
 "Oberer Graben",,,,way
 "Oberer Krautgarten",,,,way
@@ -225,7 +229,6 @@ Pförrerauweg,,,,way
 Pimsfeld,,,,way
 Pirolweg,,,,way
 Plantage,,,,way
-Plantagenweg,,,,way
 Prechtlstraße,,,,way
 "Pullinger Hauptstraße",,,,way
 Rabenweg,,,,way
@@ -290,7 +293,6 @@ Ulmenweg,,,,way
 "Untergartelshauser Weg",,,,way
 Villanystraße,,,,way
 Vimystraße,,,,way
-"Vöttinger Straße",,,,way
 "Waidhofener Straße",,,,way
 "Walderlebnispfad Freising Forst",,,,way
 Waldsiedlung,,,,way
@@ -298,10 +300,8 @@ Waldstraße,,,,way
 Waldweg,,,,way
 Wallbergstraße,,,,way
 Wartungsallee,,,,way
-"Weihenstephaner Berg",,,,way
 "Weihenstephaner Fußweg",,,,way
 "Weihenstephaner Ring",,,,way
-"Weihenstephaner Steig",,,,way
 "Weihenstephaner Straße",,,,way
 Weiherstraße,,,,way
 Wendelsteinstraße,,,,way
