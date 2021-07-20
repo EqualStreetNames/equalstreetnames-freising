@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Alte Akademie",wikidata,,Q882703,way
+"Mainburger Straße",wikidata,,Q503661,way
 "Obere Domberggasse",wikidata,,Q1236902,way
 Plantagenweg,wikidata,,Q107481691,way
 Sankt-Georg-Straße,wikidata,,Q48438,way
@@ -186,7 +187,6 @@ Lindenhof,,,,relation
 Lindenstraße,,,,way
 Lohweg,,,,way
 Luckengasse,,,,way
-"Mainburger Straße",,,,way
 Maistraße,,,,way
 Malvenstraße,,,,way
 Maria-Wörther-Straße,,,,way
