@@ -1,16 +1,23 @@
 name,source,gender,wikidata,type
+"Acheringer Hauptstraße",wikidata,,Q2633955,way
+"Acheringer Straße",wikidata,,Q2633955,way
+Adlerstraße,wikidata,,Q2092297,way
+Ahornweg,wikidata,,Q42292,way
 "Alte Akademie",wikidata,,Q882703,way
+"Am Lohmühlbach",wikidata,,Q115787073,way
 "Am Staudengarten",wikidata,,Q824193,way
+Amtsgerichtsgasse,wikidata,,Q98650820,way
+Fischergasse,wikidata,,Q331432,way
+Heiliggeistgasse,wikidata,,Q1581251,way
 "Mainburger Straße",wikidata,,Q503661,way
+"Mittlerer Graben",wikidata,,Q15848800,way
 "Obere Domberggasse",wikidata,,Q1236902,way
 Plantagenweg,wikidata,,Q107481691,way
+Saarstraße,wikidata,,Q1201,way
+Schwalbenweg,wikidata,,Q39861,way
 "Vöttinger Straße",wikidata,,Q1582117,way
 "Weihenstephaner Berg",wikidata,,Q107475256,way
 "Weihenstephaner Steig",wikidata,,Q107475256,way
-"Acheringer Hauptstraße",,,,way
-"Acheringer Straße",,,,way
-Adlerstraße,,,,way
-Ahornweg,,,,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
 "Alte Poststraße",,,,way
@@ -30,7 +37,6 @@ Alpenstraße,,,,way
 "Am Kreuzfeld",,,,way
 "Am Küchenfeld",,,,way
 "Am Kuhberg",,,,way
-"Am Lohmühlbach",,,,way
 "Am Mitterfeld",,,,way
 "Am Moosanger",,,,way
 "Am Neugereuth",,,,way
@@ -52,7 +58,6 @@ Alpenstraße,,,,way
 Amperweg,,,,way
 Amselstraße,,,,way
 Amselweg,,,,way
-Amtsgerichtsgasse,,,,way
 "An der Goldach",,,,way
 "An der Moosach",,,,way
 "An der Mühle",,,,way
@@ -111,7 +116,6 @@ Feldfahrt,,,,relation+way
 Fichtenweg,,,,way
 Finkengasse,,,,way
 Finkenstraße,,,,way
-Fischergasse,,,,way
 Fliederstraße,,,,way
 Fliederweg,,,,way
 Flurstraße,,,,way
@@ -141,7 +145,6 @@ Grottenau,,,,way
 "Hallberg Straße",,,,way
 "Hallbergmooser Straße",,,,way
 "Haxthauser Weg",,,,way
-Heiliggeistgasse,,,,way
 Herderstraße,,,,way
 Hirtenweg,,,,way
 Hochackerstraße,,,,way
@@ -199,7 +202,6 @@ Mauthstraße,,,,way
 Meisenstraße,,,,way
 Michaelsweg,,,,way
 Milanweg,,,,way
-"Mittlerer Graben",,,,way
 Moosachweg,,,,way
 Moosgasse,,,,way
 Moosmühle,,,,way
@@ -242,7 +244,6 @@ Ringweg,,,,way
 Rosenstraße,,,,way
 Rosenweg,,,,way
 Rotkreuzstraße,,,,way
-Saarstraße,,,,way
 Schießstättstraße,,,,way
 Schlesierstraße,,,,way
 Schloßstraße,,,,way
@@ -252,7 +253,6 @@ Schönbichlstraße,,,,way
 Schönblick,,,,way
 Schulstraße,,,,way
 Schulweg,,,,way
-Schwalbenweg,,,,way
 Seilerbrücklstraße,,,,way
 Siedlerweg,,,,way
 Sigi-Lorenzer-Weg,,,,way
@@ -263,7 +263,6 @@ Sonnenstraße,,,,way
 Sonnenweg,,,,way
 Spechtweg,,,,way
 Sperberweg,,,,way
-"St. Georgs-Hof",,,,way
 St.-Erhard-Straße,,,,way
 Starenweg,,,,way
 Steinbreite,,,,way
