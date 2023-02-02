@@ -5,6 +5,7 @@ Adlerstraße,wikidata,,Q2092297,way
 Ahornweg,wikidata,,Q42292,way
 "Alte Akademie",wikidata,,Q882703,way
 "Am Lohmühlbach",wikidata,,Q115787073,way
+"Am Schafhof",wikidata,,Q2230105,way
 "Am Staudengarten",wikidata,,Q824193,way
 Amtsgerichtsgasse,wikidata,,Q98650820,way
 Fischergasse,wikidata,,Q331432,way
@@ -12,12 +13,16 @@ Heiliggeistgasse,wikidata,,Q1581251,way
 "Mainburger Straße",wikidata,,Q503661,way
 "Mittlerer Graben",wikidata,,Q15848800,way
 "Obere Domberggasse",wikidata,,Q1236902,way
+"Obere Hauptstraße",wikidata,,Q1006835;Q468529,way
 Plantagenweg,wikidata,,Q107481691,way
 Saarstraße,wikidata,,Q1201,way
 Schwalbenweg,wikidata,,Q39861,way
+"Tuchinger Straße",wikidata,,Q2459100,way
+Veitsmüllerweg,wikidata,,Q2323507,way
 "Vöttinger Straße",wikidata,,Q1582117,way
 "Weihenstephaner Berg",wikidata,,Q107475256,way
 "Weihenstephaner Steig",wikidata,,Q107475256,way
+Ziegelgasse,wikidata,,Q40089,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
 "Alte Poststraße",,,,way
@@ -40,7 +45,6 @@ Alpenstraße,,,,way
 "Am Mitterfeld",,,,way
 "Am Moosanger",,,,way
 "Am Neugereuth",,,,way
-"Am Schafhof",,,,way
 "Am Schleiferbach",,,,way
 "Am Schulweg",,,,way
 "Am Schwimmbad",,,,way
@@ -129,6 +133,7 @@ Franziskaner-Platz,,,,way
 Frühlingstraße,,,,way
 Furtnerbräugasse,,,,way
 Furtnergasse,,,,way
+Gartelshausen,,,,way
 Garten,,,,way
 "Gartener Straße",,,,way
 Gartenstraße,,,,way
@@ -144,6 +149,7 @@ Grottenau,,,,way
 "Haindlfinger Straße",,,,way
 "Hallberg Straße",,,,way
 "Hallbergmooser Straße",,,,way
+Haxthausen,,,,way
 "Haxthauser Weg",,,,way
 Herderstraße,,,,way
 Hirtenweg,,,,way
@@ -179,6 +185,7 @@ Kreuzbachstraße,,,,way
 Kreuzeckstraße,,,,way
 Kulturstraße,,,,way
 LabCampus,,,,way
+Lageltshausen,,,,way
 Ländestraße,,,,way
 "Landshuter Straße",,,,way
 "Lange Point",,,,way
@@ -214,7 +221,6 @@ Neulandstraße,,,,way
 "Nord-Ost-Umgehung Freising (B 301)",,,,way
 Nordallee,,,,way
 Nussbaumweg,,,,way
-"Obere Hauptstraße",,,,way
 "Oberer Graben",,,,way
 "Oberer Krautgarten",,,,way
 "Oberer Schlangenweg",,,,way
@@ -225,7 +231,6 @@ Pallottinerstraße,,,,way
 Parkstraße,,,,way
 Pellhausen,,,,way
 Pettenbrunn,,,,way
-Petuelstraße,,,,way
 Pfarrer-Franz-Weg,,,,way
 Pfarrweg,,,,way
 Pförrerauweg,,,,way
@@ -279,7 +284,6 @@ Tannenweg,,,,way
 "Thomas Scharnagel-Weg",,,,way
 Trial,,,,way
 Trimm-Dich-Pfad,,,,way
-"Tuchinger Straße",,,,way
 "Tuchinger Weg",,,,way
 "Tunnel Süd",,,,way
 Ulmenweg,,,,way
@@ -317,7 +321,6 @@ Zeisigweg,,,,way
 Zellhausen,,,,way
 "Zellhauser Straße",,,,way
 Zentralallee,,,,way
-Ziegelgasse,,,,way
 "Zollinger Straße",,,,way
 Zugspitzstraße,,,,way
 "Zum Xaverienthal",,,,way
