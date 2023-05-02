@@ -4,12 +4,14 @@ name,source,gender,wikidata,type
 Adlerstraße,wikidata,,Q2092297,way
 Ahornweg,wikidata,,Q42292,way
 "Alte Akademie",wikidata,,Q882703,way
+"Altenhauser Straße",wikidata,,Q437195,way
 "Am Lohmühlbach",wikidata,,Q115787073,way
 "Am Schafhof",wikidata,,Q2230105,way
 "Am Staudengarten",wikidata,,Q824193,way
 Amtsgerichtsgasse,wikidata,,Q98650820,way
 Fischergasse,wikidata,,Q331432,way
 Heiliggeistgasse,wikidata,,Q1581251,way
+Kirchgasse,wikidata,,Q2327835,way
 "Mainburger Straße",wikidata,,Q503661,way
 "Mittlerer Graben",wikidata,,Q15848800,way
 "Obere Domberggasse",wikidata,,Q1236902,way
@@ -27,7 +29,6 @@ Alleestraße,,,,way
 Alpenstraße,,,,way
 "Alte Poststraße",,,,way
 "Altenhauser Fußweg",,,,way
-"Altenhauser Straße",,,,way
 "Alter Berg",,,,way
 "Am Anger",,,,way
 "Am Angerbach",,,,way
@@ -176,7 +177,6 @@ Kesselschmiedstraße,,,,way
 Kiebitzweg,,,,way
 Kirchenpoint,,,,way
 Kirchenweg,,,,way
-Kirchgasse,,,,way
 Kleiberweg,,,,way
 "Kleine Wies",,,,way
 Klosterweg,,,,way
