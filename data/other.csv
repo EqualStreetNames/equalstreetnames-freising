@@ -4,39 +4,57 @@ name,source,gender,wikidata,type
 Adlerstraße,wikidata,,Q2092297,way
 Ahornweg,wikidata,,Q42292,way
 "Alte Akademie",wikidata,,Q882703,way
+"Altenhauser Fußweg",wikidata,,Q437195,way
 "Altenhauser Straße",wikidata,,Q437195,way
+"Am Büchl",wikidata,,Q54050,way
+"Am Hofgarten",wikidata,,Q107475841,way
 "Am Lohmühlbach",wikidata,,Q115787073,way
+"Am Mitterfeld",wikidata,,Q188869;Q23595,way
 "Am Schafhof",wikidata,,Q2230105,way
 "Am Staudengarten",wikidata,,Q824193,way
 Amtsgerichtsgasse,wikidata,,Q98650820,way
+Angerbadergasse,wikidata,,Q119685618,way
+"Bachinger Moos",wikidata,,Q119872996,way
 Fischergasse,wikidata,,Q331432,way
+"Giggenhauser Straße",wikidata,,Q110623496,way
+Griesfeldstraße,wikidata,,Q34679;Q188869,way
+"Grüne Lohe",wikidata,,Q1868295,way
 "Gute Änger",wikidata,,Q57743,way
 Heiliggeistgasse,wikidata,,Q1581251,way
+Hohenbachernstraße,wikidata,,Q1623615,way
+Kirchenweg,wikidata,,Q2318903,way
 Kirchgasse,wikidata,,Q2327835,way
+"Landshuter Straße",wikidata,,Q3974,way
+"Lange Point",wikidata,,Q15840697,way
+Luckengasse,wikidata,,Q811475,way
 "Mainburger Straße",wikidata,,Q503661,way
 "Mittlerer Graben",wikidata,,Q15848800,way
+Moosgasse,wikidata,,Q1454682,way
 "Obere Domberggasse",wikidata,,Q1236902,way
 "Obere Hauptstraße",wikidata,,Q1006835;Q468529,way
+"Oberer Graben",wikidata,,Q15848800,way
 Plantagenweg,wikidata,,Q107481691,way
+Reihenweg,wikidata,,Q18814858,way
 Saarstraße,wikidata,,Q1201,way
 Schwalbenweg,wikidata,,Q39861,way
 "Tuchinger Straße",wikidata,,Q2459100,way
+"Unterer Graben",wikidata,,Q15848800,way
 Veitsmüllerweg,wikidata,,Q2323507,way
 "Vöttinger Straße",wikidata,,Q1582117,way
 "Weihenstephaner Berg",wikidata,,Q107475256,way
+"Weihenstephaner Fußweg",wikidata,,Q25731,way
 "Weihenstephaner Steig",wikidata,,Q107475256,way
+"Weihenstephaner Straße",wikidata,,Q25731,way
 Ziegelgasse,wikidata,,Q40089,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
 "Alte Poststraße",,,,way
-"Altenhauser Fußweg",,,,way
 "Alter Berg",,,,way
 "Am Anger",,,,way
 "Am Angerbach",,,,way
 "Am Angerl",,,,way
 "Am Baggersee",,,,way
 "Am Bahndamm",,,,way
-"Am Büchl",,,,way
 "Am Hochfeld",,,,way
 "Am Hochrain",,,,way
 "Am Holzfeld",,,,way
@@ -44,7 +62,6 @@ Alpenstraße,,,,way
 "Am Kreuzfeld",,,,way
 "Am Küchenfeld",,,,way
 "Am Kuhberg",,,,way
-"Am Mitterfeld",,,,way
 "Am Moosanger",,,,way
 "Am Neugereuth",,,,way
 "Am Schleiferbach",,,,way
@@ -68,7 +85,6 @@ Amselweg,,,,way
 "An der Moosach",,,,way
 "An der Mühle",,,,way
 "An der Stoibermühle",,,,way
-Angerbadergasse,,,,way
 Angerbrunnenstraße,,,,way
 Angerstraße,,,,way
 Angerweg,,,,way
@@ -77,7 +93,6 @@ Ast,,,,way
 "Attachinger Weg",,,,way
 Auenstraße,,,,way
 "B 301",,,,way
-"Bachinger Moos",,,,way
 Bachstraße,,,,way
 Badgasse,,,,way
 Bahnhofplatz,,,,way
@@ -139,24 +154,19 @@ Gartelshausen,,,,way
 Garten,,,,way
 "Gartener Straße",,,,way
 Gartenstraße,,,,way
-"Giggenhauser Straße",,,,way
 Grasmückenweg,,,,way
 "Gremertshauser Straße",,,,way
 Griesbergweg,,,,way
-Griesfeldstraße,,,,way
 Grottenau,,,,way
-"Grüne Lohe",,,,way
 "Grünes Band",,,,way
 "Haindlfinger Straße",,,,way
 "Hallberg Straße",,,,way
 "Hallbergmooser Straße",,,,way
-Haxthausen,,,,way
 "Haxthauser Weg",,,,way
 Herderstraße,,,,way
 Hirtenweg,,,,way
 Hochackerstraße,,,,way
 Hochackerweg,,,,way
-Hohenbachernstraße,,,,way
 Hollerweg,,,,way
 Holzgartenstraße,,,,way
 "Innichner Straße",,,,way
@@ -176,7 +186,6 @@ Karwendelring,,,,way
 Kesselschmiedstraße,,,,way
 Kiebitzweg,,,,way
 Kirchenpoint,,,,way
-Kirchenweg,,,,way
 Kleiberweg,,,,way
 "Kleine Wies",,,,way
 Klosterweg,,,,way
@@ -188,8 +197,6 @@ Kulturstraße,,,,way
 LabCampus,,,,way
 Lageltshausen,,,,way
 Ländestraße,,,,way
-"Landshuter Straße",,,,way
-"Lange Point",,,,way
 Laubenbräugasse,,,,way
 Laubenweg,,,,way
 Laubsängerweg,,,,way
@@ -198,7 +205,6 @@ Lerchenstraße,,,,way
 Lindenhof,,,,relation
 Lindenstraße,,,,way
 Lohweg,,,,way
-Luckengasse,,,,way
 Ludwigs-geräumt,,,,way
 Maistraße,,,,way
 Malvenstraße,,,,way
@@ -211,7 +217,6 @@ Meisenstraße,,,,way
 Michaelsweg,,,,way
 Milanweg,,,,way
 Moosachweg,,,,way
-Moosgasse,,,,way
 Moosmühle,,,,way
 Moosstraße,,,,way
 Mooswiesenstraße,,,,way
@@ -222,7 +227,6 @@ Neulandstraße,,,,way
 "Nord-Ost-Umgehung Freising (B 301)",,,,way
 Nordallee,,,,way
 Nussbaumweg,,,,way
-"Oberer Graben",,,,way
 "Oberer Krautgarten",,,,way
 "Oberer Schlangenweg",,,,way
 "Obervellacher Straße",,,,way
@@ -242,7 +246,6 @@ Prechtlstraße,,,,way
 "Pullinger Hauptstraße",,,,way
 Rabenweg,,,,way
 "Radweg FS - Wippenhausen",,,,way
-Reihenweg,,,,way
 Rennweg,,,,way
 "Riegerauer Weg",,,,way
 Rindermarkt,,,,way
@@ -293,7 +296,6 @@ Ulmenweg,,,,way
 "Untere Hauptstraße",,,,way
 "Untere Isarau",,,,way
 "Untere Schwabenau",,,,way
-"Unterer Graben",,,,way
 "Unterer Schlangenweg",,,,way
 "Untergartelshauser Weg",,,,way
 Villanystraße,,,,way
@@ -305,9 +307,7 @@ Waldstraße,,,,way
 Waldweg,,,,way
 Wallbergstraße,,,,way
 Wartungsallee,,,,way
-"Weihenstephaner Fußweg",,,,way
 "Weihenstephaner Ring",,,,way
-"Weihenstephaner Straße",,,,way
 Weiherstraße,,,,way
 Wendelsteinstraße,,,,way
 "Werdenfelser Straße",,,,way
