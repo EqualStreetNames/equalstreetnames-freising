@@ -15,27 +15,41 @@ Ahornweg,wikidata,,Q42292,way
 Amtsgerichtsgasse,wikidata,,Q98650820,way
 Angerbadergasse,wikidata,,Q119685618,way
 "Bachinger Moos",wikidata,,Q119872996,way
+Dorfstraße,wikidata,,Q757826,way
+"Erdinger Straße",wikidata,,Q15980,way
 Fischergasse,wikidata,,Q331432,way
+Franziskaner-Platz,wikidata,,Q1450316,way
 "Giggenhauser Straße",wikidata,,Q110623496,way
 Griesfeldstraße,wikidata,,Q34679;Q188869,way
 "Grüne Lohe",wikidata,,Q1868295,way
 "Gute Änger",wikidata,,Q57743,way
+"Haindlfinger Straße",wikidata,,Q1250267,way
 Heiliggeistgasse,wikidata,,Q1581251,way
 Hohenbachernstraße,wikidata,,Q1623615,way
+Isarstraße,wikidata,,Q106588,way
+Kammergasse,wikidata,,Q120197565,way
+Kammerhof,wikidata,,Q120197565,way
+Karwendelring,wikidata,,Q671207,way
+Kirchenpoint,wikidata,,Q1169257,way
 Kirchenweg,wikidata,,Q2318903,way
 Kirchgasse,wikidata,,Q2327835,way
 "Landshuter Straße",wikidata,,Q3974,way
 "Lange Point",wikidata,,Q15840697,way
+Laurentiusweg,wikidata,,Q15129475,way
 Luckengasse,wikidata,,Q811475,way
 "Mainburger Straße",wikidata,,Q503661,way
 "Mittlerer Graben",wikidata,,Q15848800,way
 Moosgasse,wikidata,,Q1454682,way
+"Münchner Straße",wikidata,,Q1726,way
 "Obere Domberggasse",wikidata,,Q1236902,way
 "Obere Hauptstraße",wikidata,,Q1006835;Q468529,way
 "Oberer Graben",wikidata,,Q15848800,way
+Ortsstraße,wikidata,,Q1623615,way
 Plantagenweg,wikidata,,Q107481691,way
 Reihenweg,wikidata,,Q18814858,way
+Rotkreuzstraße,wikidata,,Q120362156,way
 Saarstraße,wikidata,,Q1201,way
+Schloßstraße,wikidata,,Q1598522,way
 Schwalbenweg,wikidata,,Q39861,way
 "Tuchinger Straße",wikidata,,Q2459100,way
 "Unterer Graben",wikidata,,Q15848800,way
@@ -45,6 +59,7 @@ Veitsmüllerweg,wikidata,,Q2323507,way
 "Weihenstephaner Fußweg",wikidata,,Q25731,way
 "Weihenstephaner Steig",wikidata,,Q107475256,way
 "Weihenstephaner Straße",wikidata,,Q25731,way
+Wies,wikidata,,Q1737916,way
 Ziegelgasse,wikidata,,Q40089,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
@@ -113,7 +128,6 @@ Buchenweg,,,,way
 Clemensänger-Ost,,,,way
 Damm,,,,way
 Dammweg,,,,way
-Dorfstraße,,,,way
 Drosselweg,,,,way
 Dukatenweg,,,,way
 Dürnast,,,,way
@@ -122,7 +136,6 @@ Dürnast,,,,way
 Eberhardsweg,,,,way
 Eichenweg,,,,way
 Eisvogelweg,,,,way
-"Erdinger Straße",,,,way
 "Erlauer Straße",,,,way
 Erlenweg,,,,way
 Eschenhain,,,,way
@@ -141,7 +154,6 @@ Fliederstraße,,,,way
 Fliederweg,,,,way
 Flurstraße,,,,way
 "Franzheimer Straße",,,,way
-Franziskaner-Platz,,,,way
 "Freestyle MX",,,,way
 "Freisinger Allee",,,,way
 "Freisinger Moos",,,,relation
@@ -159,7 +171,6 @@ Grasmückenweg,,,,way
 Griesbergweg,,,,way
 Grottenau,,,,way
 "Grünes Band",,,,way
-"Haindlfinger Straße",,,,way
 "Hallberg Straße",,,,way
 "Hallbergmooser Straße",,,,way
 "Haxthauser Weg",,,,way
@@ -172,7 +183,6 @@ Holzgartenstraße,,,,way
 "Innichner Straße",,,,way
 Isarau,,,,way
 "Isarsteg Süd",,,,way
-Isarstraße,,,,way
 "Ismaninger Straße",,,,way
 Itzling,,,,way
 "Itzlinger Straße",,,,way
@@ -180,12 +190,8 @@ Jagdstraße,,,,way
 Jägersteig,,,,way
 Jägerwirtsgasse,,,,way
 Johann-Baumgartner-Straße,,,,way
-Kammergasse,,,,way
-Kammerhof,,,,way
-Karwendelring,,,,way
 Kesselschmiedstraße,,,,way
 Kiebitzweg,,,,way
-Kirchenpoint,,,,way
 Kleiberweg,,,,way
 "Kleine Wies",,,,way
 Klosterweg,,,,way
@@ -221,7 +227,6 @@ Moosmühle,,,,way
 Moosstraße,,,,way
 Mooswiesenstraße,,,,way
 Mühlenweg,,,,way
-"Münchner Straße",,,,way
 "Neue Kulturstraße",,,,way
 Neulandstraße,,,,way
 "Nord-Ost-Umgehung Freising (B 301)",,,,way
@@ -230,7 +235,6 @@ Nussbaumweg,,,,way
 "Oberer Krautgarten",,,,way
 "Oberer Schlangenweg",,,,way
 "Obervellacher Straße",,,,way
-Ortsstraße,,,,way
 Ottostraße,,,,way
 Pallottinerstraße,,,,way
 Parkstraße,,,,way
@@ -252,11 +256,8 @@ Rindermarkt,,,,way
 Ringweg,,,,way
 Rosenstraße,,,,way
 Rosenweg,,,,way
-Rotkreuzstraße,,,,way
 Schießstättstraße,,,,way
 Schlesierstraße,,,,way
-Schloßstraße,,,,way
-Schlütergelände,,,,way
 Schlüterstraße,,,,way
 Schönbichlstraße,,,,way
 Schönblick,,,,way
@@ -315,7 +316,6 @@ Wendelsteinstraße,,,,way
 "Westtangente Freising (FS 44)",,,,way
 "Westtangente Freising (Tunnel Vötting)",,,,way
 Wettersteinring,,,,way
-Wies,,,,way
 Wiesenthalstraße,,,,way
 "Wippenhauser Straße",,,,way
 Zeisigweg,,,,way
