@@ -1,11 +1,77 @@
 name,source,gender,wikidata,type
+"Acheringer Hauptstraße",wikidata,-,Q2633955,way
+"Acheringer Straße",wikidata,-,Q2633955,way
+Adlerstraße,wikidata,-,Q2092297,way
+Ahornweg,wikidata,-,Q42292,way
+"Alte Akademie",wikidata,-,Q882703,way
+"Altenhauser Fußweg",wikidata,-,Q437195,way
+"Altenhauser Straße",wikidata,-,Q437195,way
+"Am Büchl",wikidata,-,Q54050,way
+"Am Hofgarten",wikidata,-,Q107475841,way
+"Am Lohmühlbach",wikidata,-,Q115787073,way
+"Am Mitterfeld",wikidata,-,Q188869;Q23595,way
+"Am Schafhof",wikidata,-,Q2230105,way
+"Am Staudengarten",wikidata,-,Q824193,way
+Amtsgerichtsgasse,wikidata,-,Q98650820,way
+Angerbadergasse,wikidata,-,Q119685618,way
+"Bachinger Moos",wikidata,-,Q119872996,way
+Bahnhofplatz,wikidata,-,Q800785,way
+Domberg,wikidata,-,Q262769,way
+Dorfstraße,wikidata,-,Q757826,way
+"Erdinger Straße",wikidata,-,Q15980,way
+Fischergasse,wikidata,-,Q331432,way
+Franziskaner-Platz,wikidata,-,Q1450316,way
+"Giggenhauser Straße",wikidata,-,Q110623496,way
+Griesfeldstraße,wikidata,-,Q1582117;Q34679;Q188869,way
+"Grüne Lohe",wikidata,-,Q1868295,way
+"Gute Änger",wikidata,-,Q57743,way
+"Haindlfinger Straße",wikidata,-,Q1250267,way
+Heiliggeistgasse,wikidata,-,Q1581251,way
+Hohenbachernstraße,wikidata,-,Q1623615,way
+Isarstraße,wikidata,-,Q106588,way
+Kammergasse,wikidata,-,Q120197565,way
+Kammerhof,wikidata,-,Q120197565,way
+Karwendelring,wikidata,-,Q671207,way
+Kirchenpoint,wikidata,-,Q1169257,way
+Kirchenweg,wikidata,-,Q2318903,way
+Kirchgasse,wikidata,-,Q2327835,way
+"Landshuter Straße",wikidata,-,Q3974,way
+"Lange Point",wikidata,-,Q15840697,way
+Laurentiusweg,wikidata,-,Q15129475,way
+Luckengasse,wikidata,-,Q811475,way
+"Mainburger Straße",wikidata,-,Q503661,way
+"Mittlerer Graben",wikidata,-,Q15848800,way
+Moosgasse,wikidata,-,Q1454682,way
+"Münchner Straße",wikidata,-,Q1726,way
+"Obere Domberggasse",wikidata,-,Q1236902,way
+"Obere Hauptstraße",wikidata,-,Q1006835;Q468529,way
+"Oberer Graben",wikidata,-,Q15848800,way
+Ortsstraße,wikidata,-,Q1623615,way
+Plantagenweg,wikidata,-,Q107481691,way
+Reihenweg,wikidata,-,Q18814858,way
+Rotkreuzstraße,wikidata,-,Q120362156,way
+Saarstraße,wikidata,-,Q1201,way
+Schloßstraße,wikidata,-,Q1598522,way
+Schwalbenweg,wikidata,-,Q39861,way
+"Tuchinger Straße",wikidata,-,Q2459100,way
+"Unterer Graben",wikidata,-,Q15848800,way
+Veitsmüllerweg,wikidata,-,Q2323507,way
+"Vöttinger Straße",wikidata,-,Q1582117,way
+"Weihenstephaner Berg",wikidata,-,Q107475256,way
+"Weihenstephaner Fußweg",wikidata,-,Q25731,way
+"Weihenstephaner Steig",wikidata,-,Q107475256,way
+"Weihenstephaner Straße",wikidata,-,Q25731,way
+Wies,wikidata,-,Q1737916,way
+Ziegelgasse,wikidata,-,Q40089,way
+St.-Valentin-Straße,wikidata,?,Q1413265;Q2367577,way
+Weizengasse,wikidata,?,Q106255779;Q106255779;Q15645384;Q20725072,way
 Graf-Moy-Straße,wikidata,F,Q106255016,way
 Imma-Mack-Platz,wikidata,F,Q1895982,relation+way
 Katharina-Geisler-Straße,wikidata,F,Q106255334,way
 Katharina-Mair-Straße,wikidata,F,Q106255346,way
 Lena-Christ-Straße,wikidata,F,Q77925,way
 Lise-Meitner-Straße,wikidata,F,Q56189,way
-Marienplatz,wikidata,F,Q345,relation
+Marienplatz,wikidata,F,Q345,relation+way
 Möhlestraße,wikidata,F,Q106255555,way
 Therese-von-der-Vring-Straße,wikidata,F,Q1310355,way
 Weinmiller-Straße,wikidata,F,Q106255758,way
@@ -131,12 +197,10 @@ Sporrergasse,wikidata,M,Q15810305,way
 "St. Georgs-Hof",wikidata,M,Q48438,way
 St.-Norbert-Straße,wikidata,M,Q160374,way
 St.-Ulrich-Straße,wikidata,M,Q714866,way
-St.-Valentin-Straße,wikidata,M,Q1413265;Q2367577,way
 Theodor-Scherg-Straße,wikidata,M,Q106255723,way
 Trevor-Moore-Straße,wikidata,M,Q106255740,way
 Veit-Adam-Straße,wikidata,M,Q1791439,way
 Viscardistraße,wikidata,M,Q124379,way
-Weizengasse,wikidata,M,Q106255779;Q106255779;Q15645384;Q20725072,way
 Weldenstraße,wikidata,M,Q109634,way
 Wendelinstraße,wikidata,M,Q389586,way
 Widmannstraße,wikidata,M,Q106255796,way
