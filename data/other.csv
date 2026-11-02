@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Abendseglerweg,,,,way
 Alleestraße,,,,way
 Alpenstraße,,,,way
 "Alte Poststraße",,,,way
@@ -64,6 +65,7 @@ Brunnwiesenstraße,,,,way
 Buchenweg,,,,way
 "Burgrainer Straße",,,,way
 Clemensänger-Ost,,,,way
+"DIMU Terrasse",,,,way
 Damm,,,,way
 Dammweg,,,,way
 Dr.-Hans-Raum-Straße,,,,way
@@ -80,7 +82,6 @@ Erlenweg,,,,way
 Eschenhain,,,,way
 Eschenweg,,,,way
 Eulenweg,,,,way
-"FH Weihenstephan",,,,way
 Fabrikstraße,,,,way
 Falkenstraße,,,,way
 Fasanenweg,,,,way
@@ -140,7 +141,6 @@ Kreuzbachstraße,,,,way
 Kreuzeckstraße,,,,way
 "Kreuzweg zur Wies",,,,way
 Kulturstraße,,,,way
-LabCampus,,,,way
 Lageltshausen,,,,way
 Ländestraße,,,,way
 Laubenbräugasse,,,,way
@@ -190,13 +190,16 @@ Prechtlstraße,,,,way
 "Pullinger Hauptstraße",,,,way
 Rabenweg,,,,way
 "Radweg FS - Wippenhausen",,,,way
+Regenpfeiferweg,,,,way
 Rennweg,,,,way
 "Riegerauer Weg",,,,way
 Rindermarkt,,,,way
 Ringweg,,,,way
 Rosenstraße,,,,way
 Rosenweg,,,,way
+Sandbienenweg,,,,way
 Schießstättstraße,,,,way
+Schillerfalterweg,,,,way
 Schlesierstraße,,,,way
 Schlüterbrücke,,,,way
 Schlüterstraße,,,,way
@@ -215,6 +218,7 @@ Sonnenweg,,,,way
 Spechtweg,,,,way
 Sperberweg,,,,way
 St.-Erhard-Straße,,,,way
+St.-Ulrich-Straße,,,,way
 Starenweg,,,,way
 Steinbreite,,,,way
 Stieglbräugasse,,,,way
